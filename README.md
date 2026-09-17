@@ -288,3 +288,4 @@ ProjectHub/
 ## 15. Declaration
 
 This project is an original work developed as part of the DBMS Unit 4 Individual Mini Project assignment. The application demonstrates HTML Form → PHP → MySQL → SELECT/INSERT → Browser Output with secure prepared SQL statements.
+ 
